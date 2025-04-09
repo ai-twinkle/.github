@@ -6,7 +6,4 @@
 
 Our mission is to promote knowledge of large language model training through real-world practices. By embracing openness and collaboration, we aim to advance Taiwan’s development in the field of generative AI.
 
-### Open-Source Projects
-- **[Twinkle Eval](https://github.com/ai-twinkle/Eval)**: A fast and accurate AI evaluation tool that uses parallel and randomized testing methods to provide objective performance analysis and stability assessments. It supports various commonly used benchmark datasets.
-
 👋 Join our [Discord](https://discord.gg/Cx737yw4ed) to connect and collaborate with the community!
